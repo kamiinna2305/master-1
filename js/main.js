@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-  const cfgPath = '/data/config.json';
+  const cfgPath = 'data/config.json';
 
   fetch(cfgPath)
     .then(res => {
