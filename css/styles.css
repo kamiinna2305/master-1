@@ -415,7 +415,7 @@ section{
 
 .menu_item{
   flex-direction: column;
-  row-gap: 20px;
+ 
 }
 
 .gallery-grid {
