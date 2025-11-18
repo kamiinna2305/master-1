@@ -37,6 +37,7 @@ body{
   height: 100vh;
   position: relative;
   margin-bottom: 50px;
+  padding-top: 16px;
 }
 
 .header_menu{
