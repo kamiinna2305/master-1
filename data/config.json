@@ -1,0 +1,34 @@
+{
+  "businessName": "Robert De Niro",
+  "tagline": "Professional painter",
+  "description": "My experience guarantees high quality services and professional results.",
+  "descriptionAbout": "If you're looking for a painter in Spain, you've come to the right place. My name is Robert De Niro, and I've been working as a painter for 10 years. My extensive experience with all types of paint guarantees high-quality service and professional results. I offer painting quotes from 7:00 AM to 10:00 PM to accommodate your schedule.",
+  "phoneIcon": "📞",
+  "phone": "+34 603 158 604",
+  "whatsappIcon": "🟢",
+  "whatsApp": "+34 603 158 604",
+  "emailIcon": "📧",
+  "email": "inna@example.com",
+  "location": "Lloret de Mar, Spain",
+  "instagramIcon": "📷",
+  "instagram": "@inna_hiliarovska",
+  "bodyColor": "#ddd7d2",
+  "themeColor": "#ccb19e",
+  "textColor": "#333",
+  "services": [
+    "Interior wall painting",
+    "Exterior & facade painting",
+    "Decorative finishes",
+    "Wood and metal restoration"
+  ],
+  "gallery": [
+    { "src": "images/img-1.jpg", "alt": "01"},
+    { "src": "images/img-2.jpg", "alt": "02"},
+    { "src": "images/img-3.jpg", "alt": "03"},
+    { "src": "images/img-4.jpg", "alt": "04"},
+    { "src": "images/img-5.jpg", "alt": "05"},
+    { "src": "images/img-6.jpg", "alt": "06"},
+    { "src": "images/img-7.jpg", "alt": "07"},
+    { "src": "images/img-8.jpg", "alt": "08"}
+  ]
+}
