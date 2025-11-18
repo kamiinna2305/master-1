@@ -22,13 +22,13 @@
     "Wood and metal restoration"
   ],
   "gallery": [
-    { "src": "images/img-1.jpg", "alt": "01"},
-    { "src": "images/img-2.jpg", "alt": "02"},
-    { "src": "images/img-3.jpg", "alt": "03"},
-    { "src": "images/img-4.jpg", "alt": "04"},
-    { "src": "images/img-5.jpg", "alt": "05"},
-    { "src": "images/img-6.jpg", "alt": "06"},
-    { "src": "images/img-7.jpg", "alt": "07"},
-    { "src": "images/img-8.jpg", "alt": "08"}
+    { "src": "./images/img-1.jpg", "alt": "01"},
+    { "src": "./images/img-2.jpg", "alt": "02"},
+    { "src": "./images/img-3.jpg", "alt": "03"},
+    { "src": "./images/img-4.jpg", "alt": "04"},
+    { "src": "./images/img-5.jpg", "alt": "05"},
+    { "src": "./images/img-6.jpg", "alt": "06"},
+    { "src": "./images/img-7.jpg", "alt": "07"},
+    { "src": "./images/img-8.jpg", "alt": "08"}
   ]
 }
