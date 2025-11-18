@@ -1,4 +1,4 @@
-@import url('./reset.css');
+@import url('reset.css');
 
 /* Flex wrapper */
 .wrapper {
@@ -29,7 +29,7 @@ body{
 /*Header*/
 
 .header {
-  background-image: url('../images/hero.jpg');
+  background-image: url('/images/hero.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
@@ -394,6 +394,7 @@ footer{
 .menu_items.open {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   position: fixed;
   height: 100%;
   width: 100%;
