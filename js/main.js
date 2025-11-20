@@ -1,3 +1,7 @@
+/*
+  Template © 2025 Inna Web Boutique
+  License: for personal use only. Resale prohibited.
+*/
 
 document.addEventListener('DOMContentLoaded', () => {
 
@@ -40,16 +44,16 @@ document.addEventListener('DOMContentLoaded', () => {
       document.querySelectorAll('.instagram').forEach(el => el.textContent = data.instagram || '');
       document.querySelectorAll('.about_description').forEach(el => el.textContent = data.descriptionAbout || '');
 
-      document.querySelector('.phone').textContent = `${data.phoneIcon} ${data.phone}`;
+      document.querySelector('.phone').textContent = `${data.phone}`;
       document.querySelector('.phone').href = `tel:${data.phone.replace(/\s/g, '')}`;
 
-      document.querySelector('.email').textContent = `${data.emailIcon} ${data.email}`;
+      document.querySelector('.email').textContent = `${data.email}`;
       document.querySelector('.email').href = `mailto:${data.email}`;
 
-      document.querySelector('.whatsapp').textContent = `${data.whatsappIcon} WhatsApp`;
+      document.querySelector('.whatsapp').textContent = `${data.whatsApp} WhatsApp`;
       document.querySelector('.whatsapp').href = `https://wa.me/${data.phone.replace(/\D/g, '')}`;
 
-      document.querySelector('.instagram').textContent = `${data.instagramIcon} ${data.instagram}`;
+      document.querySelector('.instagram').textContent = `${data.instagram}`;
       document.querySelector('.instagram').href = `https://instagram.com/${data.instagram.replace('@', '')}`;
 
       // Colors
@@ -195,5 +199,9 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
-
+/*
+  Template © 2025 Inna Web Boutique 
+  Author: Inna Hiliarovska
+  License: Personal use only. Resale prohibited.
+*/
 
